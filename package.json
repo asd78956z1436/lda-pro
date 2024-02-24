@@ -10,8 +10,16 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^1.6.7",
     "bootstrap": "^5.3.3",
     "core-js": "^3.36.0",
+    "gsap": "^3.12.5",
+    "jquery": "^3.7.1",
+    "lightbox2": "^2.11.4",
+    "pinia": "^2.1.7",
+    "primeflex": "^3.3.1",
+    "primeicons": "^6.0.1",
+    "primevue": "^3.48.1",
     "register-service-worker": "^1.7.2",
     "vue": "^3.4.19",
     "vue-class-component": "^8.0.0-0",
